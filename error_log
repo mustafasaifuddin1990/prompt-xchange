@@ -1,0 +1,1 @@
+[26-Jul-2024 16:59:18 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.29. in /home/staging/public_html/prompt-xchange.staging.designinternal.com/vendor/composer/platform_check.php on line 24
